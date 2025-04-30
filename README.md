@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-Meu nome é Juan Arthur tenho 17 anos, atualmente não estou trabalhando mas Estou cursando T.I. no SENAI na Bahia, tenho como objetivo construir uma carreira solida no universo da tecnologia, quero aprender um pouco de tudo como banco de dados, cibe segurança, as principais linguagens de programação como pythom e C, eu agora pretendo fazer uma faculdade de engenharia de software, gostei da area mas não sei muito bem o que me espera, e agora para me ajudar em minha carreira também estou aprendendo inglês.
+Juan Arthur, 17 anos, estudante de Tecnologia da Informação no SENAI (Bahia).
+Atualmente, dedico-me à construção de uma carreira sólida na área de tecnologia, com interesse especial em diversos campos como banco de dados, cibersegurança e linguagens de programação — incluindo Python e C. Tenho como meta cursar Engenharia de Software e estou em busca constante de aprendizado e desenvolvimento técnico. Para ampliar minhas oportunidades e alcançar uma formação mais completa, também estou me aprimorando na língua inglesa.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,23 @@
 # 💫 About Me:
-Juan Arthur, 17 anos, estudante de Tecnologia da Informação no SENAI (Bahia). Atualmente, me dedico à construção de uma carreira sólida na área de tecnologia, com interesse especial em diversos campos como banco de dados, cibersegurança e linguagens de programação — incluindo Python e C. Tenho como meta curso Engenharia de Software e estou em busca constante de aprendizado e desenvolvimento técnico. Para ampliar minhas oportunidades e alcançar uma formação mais completa, também estou me aprimorando na língua inglesa.<br><br>
+Sou Juan Arthur, estudante de Tecnologia da Informação pelo SENAI (Bahia), com 17 anos. Tenho me dedicado à construção de uma base sólida na área de tecnologia, com interesse especial em desenvolvimento de software, banco de dados, cibersegurança e linguagens de programação como Python e C.
+
+Tenho como objetivo ingressar futuramente no curso de Engenharia de Software, buscando expandir meus conhecimentos e habilidades para atuar de forma mais abrangente no setor de tecnologia. Estou em constante evolução, sempre em busca de aprendizado prático e teórico que contribua para minha formação técnica.
+
+Além disso, estou me aprimorando na língua inglesa, com o objetivo de ampliar minhas oportunidades acadêmicas e profissionais no cenário global.
+
+Possuo familiaridade com diversas tecnologias e ferramentas, incluindo:
+
+Linguagens e Frameworks: HTML5, CSS3, JavaScript, PHP, Python, C, Bootstrap, Node.js
+
+Ferramentas e Plataformas: Git, GitHub, XAMPP, Canva, Figma, GIMP, Notion, Insomnia, Jira
+
+Testes e Qualidade: Cypress, Cucumber
+
+Banco de Dados: MySQL
+
+Sistemas Operacionais: Kali Linux
+
+Sou comprometido com o aprendizado contínuo e pronto para colaborar em projetos desafiadores que estimulem meu crescimento pessoal e profissional.<br><br>
 
 
 # 💻 Tech Stack:

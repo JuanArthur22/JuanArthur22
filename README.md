@@ -1,15 +1,21 @@
 # 💫 About Me:
-Sou Juan Arthur, estudante de Tecnologia da Informação pelo SENAI (Bahia), com 17 anos. Tenho me dedicado à construção de uma base sólida na área de tecnologia, com interesse especial em desenvolvimento de software, banco de dados, cibersegurança e linguagens de programação como Python e C.
+Sou Juan Arthur, atualmente com 18 anos, estou cursando Bacharelado em Ciência de Dados e Inteligência Artificial no SENAI Cimatec.
 
-Tenho como objetivo ingressar futuramente no curso de Engenharia de Software, buscando expandir meus conhecimentos e habilidades para atuar de forma mais abrangente no setor de tecnologia. Estou em constante evolução, sempre em busca de aprendizado prático e teórico que contribua para minha formação técnica.
+Atualmente atuo como jovem aprendiz na X Mold, como assistente administrativo, onde desenvolvo habilidades como organização, análise de processos, responsabilidade e atenção aos detalhes — competências que também aplico na área de tecnologia, especialmente no tratamento de dados e resolução de problemas.
 
-Além disso, estou me aprimorando na língua inglesa, com o objetivo de ampliar minhas oportunidades acadêmicas e profissionais no cenário global.
+Tenho me dedicado à construção de uma base sólida em tecnologia, com interesse em desenvolvimento de software, banco de dados, cibersegurança e linguagens de programação como Python e C. Busco aplicar esses conhecimentos na criação de soluções eficientes, orientadas a dados e alinhadas às necessidades do negócio.
+
+Minha experiência administrativa, aliada à formação em tecnologia, me permite ter uma visão mais estratégica, compreendendo tanto os processos organizacionais quanto as soluções tecnológicas que podem otimizá-los. Dessa forma, estou apto a atuar tanto na área de TI quanto em funções administrativas com foco em melhoria de processos e análise de dados.
+
+Tenho como objetivo evoluir profissionalmente na área de tecnologia, especialmente em Ciência de Dados e Inteligência Artificial, mantendo sempre uma abordagem prática e orientada a resultados.
+
+Além disso, estou me aprimorando na língua inglesa, com foco na ampliação das minhas oportunidades no cenário global.
 
 Possuo familiaridade com diversas tecnologias e ferramentas, incluindo:
 
 Linguagens e Frameworks: HTML5, CSS3, JavaScript, PHP, Python, C, Bootstrap, Node.js
 
-Ferramentas e Plataformas: Git, GitHub, XAMPP, Canva, Figma, GIMP, Notion, Insomnia, Jira
+Ferramentas e plataformas: Git, GitHub, XAMPP, Canva, Figma, GIMP, Notion, Insomnia, Jira
 
 Testes e Qualidade: Cypress, Cucumber
 
@@ -17,7 +23,7 @@ Banco de Dados: MySQL
 
 Sistemas Operacionais: Kali Linux
 
-Sou comprometido com o aprendizado contínuo e pronto para colaborar em projetos desafiadores que estimulem meu crescimento pessoal e profissional.<br><br>
+Estou comprometido com o aprendizado contínuo e preparado para contribuir tanto em projetos tecnológicos quanto em atividades administrativas que demandem organização, análise e melhoria de processos.<br><br>
 
 
 # 💻 Tech Stack:
